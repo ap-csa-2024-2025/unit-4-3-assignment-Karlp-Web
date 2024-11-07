@@ -11,20 +11,19 @@ public class Main
         System.out.println(i + " ");
       }
     }
+  }
 
+  public static void main(String[] args)
+  {
+    for (int = 17; i <= 73; i++ )
+    {
+      System.out.print(i + " ");
 
-
-
-
-
-
-
-
-
-
-
-
-    
+      if (i % 10 == 6)
+      {
+        System.out.println();
+      }
+    }
   }
 
 
